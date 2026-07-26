@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Furlo",
+    "subtitle": "Where Pets Belong",
+    "description": "A Social Media Platform for Pets (Under Development)",
+    "fullDescription": "Furlo is India's first social network specifically built for pets and pet lovers. It allows pet parents to create dedicated profiles for their dogs and cats, share photos and daily moments, connect with nearby pet owners in local 'Packs', and interact using pet-friendly features like Treats and Barks.",
+    "image": "/furlo.png",
+    "status": "Under Development",
+    "techStack": ["Next.js", "Nest.js", "TypeScript", "Supabase", "TailwindCSS", "ShadcnUI"],
+    "features": [
+      "🐾 Dedicated Pet Profiles with bio, breed, age & location",
+      "🐕 Pack Discovery: Find local pet owners & dog parks in your city",
+      "🦴 Treats & Barks: Custom pet-themed interactions for posts",
+      "📸 Photo & Activity Feed for sharing daily zoomies and milestones",
+      "⚡ High-performance full stack architecture with real-time updates"
+    ],
+    "link": "#contact"
+  }
+]
